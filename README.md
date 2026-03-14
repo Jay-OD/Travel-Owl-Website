@@ -2,7 +2,7 @@
 
 Travel Owl is a travel information website designed to provide clear, accesible destination guides and pratcical travel advice. The platform is built using Wix and focuses on simplicity, readability, and mobile friendly design.
 
-This has been fully designed by myself and is still a work in progress. I have previous experiance setting up a few w.ebsites which has made planning this project a lot easier. An example of this was before I set anything up I had drawn up a plan of how I wanted the websites architecture to appear, and how I could try to optimise content to better enhance SEO.
+This has been fully designed by myself and is still a work in progress. I have previous experiance setting up a few websites which has made planning this project a lot easier. An example of this was before I set anything up I had drawn up a plan of how I wanted the websites architecture to appear, and how I could try to optimise content to better enhance SEO.
 
 This documentation outlines the overview, features, structure, workflow, tools, and future plans for the project.
 
@@ -14,22 +14,22 @@ This is achieved by first hand stories of experiance, and utilizing key technolo
 
 ## Features
 
-Destintion guides
-Practical travel tips
-Guest authored articles
-Mobile friendly layout
-SEO focused structure
-Clean and accessible design
+* Destintion guides
+* Practical travel tips
+* Guest authored articles
+* Mobile friendly layout
+* SEO focused structure
+* Clean and accessible design
 
 ## Technology and Tools
 
-Wix CMS
-Wix SEO Tools
-Built in analytics
-Publishing tools
-Branding and layout management
-Widgets that enhance accessibilty and cookie banners
-AI and other research tools to help provide the correct information
+* Wix CMS
+* Wix SEO Tools
+* Built in analytics
+* Publishing tools
+* Branding and layout management
+* Widgets that enhance accessibilty and cookie banners
+* AI and other research tools to help provide the correct information
 
 ## Content Workflow
 
@@ -37,12 +37,12 @@ My SEO knowledge has helped me with generating organic traffic and I am doing ve
 
 I start my blogs with the following workflow: 
 
-Relevant topics
-Research and drafting
-Editing and formatting
-SEO optimisation
-AI to read through and restructure where necessary
-Publishing 
+* Relevant topics
+* Research and drafting
+* Editing and formatting
+* SEO optimisation
+* AI to read through and restructure where necessary
+* Publishing 
 
 ## Guest Author Process
 
@@ -50,11 +50,11 @@ As a small platform I do not have the resources and time that my competition may
 
 I start by the following:
 
-Research potential candiates
-Reach out and highlight the benefit of collaboration
-Topic and content aggreement
-Draft submission
-Publish with author credit
+* Research potential candiates
+* Reach out and highlight the benefit of collaboration
+* Topic and content aggreement
+* Draft submission
+* Publish with author credit
 
 I do not like to edit other peoples content as it is in their own words. I might highlight if there is something wrong, but I like thier post to be as authentic to them as possible.
 
