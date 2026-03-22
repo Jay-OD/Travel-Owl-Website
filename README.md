@@ -12,6 +12,8 @@ Travel Owl is a currated travel guide platform that provide relavant infomation 
 
 This is achieved by first hand stories of experiance, and utilizing key technologies such as accessibilty widgets that can convert the design of the website to their required needs. This can include changing colours, text size, and also offering a letterbox mode for people that can find too much in one view to be overwhelming.
 
+<img width="3366" height="1644" alt="image" src="https://github.com/user-attachments/assets/235bf81e-48bf-4b3c-a90f-4840dc9283fc" />
+
 ## Features
 
 * Destintion guides
