@@ -10,9 +10,13 @@ This documentation outlines the overview, features, structure, workflow, tools, 
 
 Travel Owl is a currated travel guide platform that provide relavant infomation to destinations such where to go, best times to visit and even local emergancy numbers. It is designed to be straightforward, relaible, with a key focus on accessibility. 
 
-This is achieved by first hand stories of experiance, and utilizing key technologies such as accessibilty widgets that can convert the design of the website to their required needs. This can include changing colours, text size, and also offering a letterbox mode for people that can find too much in one view to be overwhelming.
+This is achieved by first hand stories of experience, and utilizing key technologies such as accessibilty widgets that can convert the design of the website to their required needs. This can include changing colours, text size, and also offering a letterbox mode for people that can find too much in one view to be overwhelming.
 
-<img width="3366" height="1644" alt="image" src="https://github.com/user-attachments/assets/235bf81e-48bf-4b3c-a90f-4840dc9283fc" />
+Website Preview
+<img width="3750" height="1866" alt="image" src="https://github.com/user-attachments/assets/296bcfd2-ac03-49bc-908c-05c12c3f6810" />
+
+Accessibility Options
+<img width="3753" height="1854" alt="image" src="https://github.com/user-attachments/assets/a48ef534-ce08-4aa0-a1e6-8b489a846765" />
 
 ## Features
 
@@ -35,7 +39,7 @@ This is achieved by first hand stories of experiance, and utilizing key technolo
 
 ## Content Workflow
 
-My SEO knowledge has helped me with generating organic traffic and I am doing very well in particular with AI searches using my sie as a trusted source of infomation.
+My SEO knowledge has helped me with generating organic traffic and I am doing very well in particular with AI searches using my site as a trusted source of infomation.
 
 I start my blogs with the following workflow: 
 
@@ -59,6 +63,8 @@ I start by the following:
 * Publish with author credit
 
 I do not like to edit other peoples content as it is in their own words. I might highlight if there is something wrong, but I like thier post to be as authentic to them as possible.
+
+<img width="2760" height="1050" alt="image" src="https://github.com/user-attachments/assets/b2800df2-47c2-40f9-a57b-e396f482b994" />
 
 ## Future Development
 
